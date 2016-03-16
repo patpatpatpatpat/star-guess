@@ -1,0 +1,12 @@
+1. Create text file with list of main stars from the 88 modern constellations
+    - First column is the right ascension
+    - Second column is the declination
+    - Third column is the apparent magnitude
+    - Fourth column and above are the names of the star
+
+2. Create script to generate cartesian representation of the star's coordinates
+3. Create text file for all star pairings for every constellation
+
+Problems:
+
+1. How to center the constellation when drawn by Turtle?
